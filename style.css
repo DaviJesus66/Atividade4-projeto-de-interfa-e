@@ -1,0 +1,12 @@
+/*Importação de Fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+/*Primeiros Passos da Linguagem*/
+* {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+body {
+   
+}
